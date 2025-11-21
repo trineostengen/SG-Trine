@@ -106,3 +106,40 @@ Prioritization: avoiding scope creep
 Conclusion
 
 “Prioritize” will be a small but effective demonstration of an AI-supported productivity tool built using the BMAD-methodology and multiple AI agents. It is simple enough to complete within two weeks while still showing understanding of the core concepts in the course: context engineering, agent roles, prompt design, and AI-assisted development.
+
+User Flows
+User Flow 1: Add a New Task
+
+User opens the application.
+
+User clicks “Add task”.
+
+User types in a task description.
+
+AI suggests labels and priority.
+
+User accepts or adjusts suggestions.
+
+Task is added to the list.
+
+User sees updated task overview.
+
+User Flow 2: View and Filter Tasks
+
+User opens the task list.
+
+User selects a filter (e.g., “Urgent”, “Work”).
+
+Application displays filtered tasks.
+
+User clicks a task to view details or update it.
+
+User Flow 3: Edit or Complete a Task
+
+User clicks on an existing task.
+
+AI updates labels/priority if text is changed.
+
+User edits or marks task as completed.
+
+Updated task appears in the list.
