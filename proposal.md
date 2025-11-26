@@ -50,7 +50,7 @@ Users do not need technical experience. The interface must be simple enough for 
 
 ## Technical Scope
 
-
+ 
 ### Frontend Specification
 - **Framework**: Next.js 14+ with App Router for server-side rendering and optimal performance
 - **Language**: TypeScript for type safety and better AI-assisted development
